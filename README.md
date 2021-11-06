@@ -1,2 +1,18 @@
-# python-learning-programs
-This repository consists of projects made specifically for learning various python concepts and tying them together.
+# Python Learning Programs
+This repo is broken into 3 groups of difficulty:
+1. Easy - practice syntax
+2. Medium - practice problem solving
+3. Hard - put it all together
+
+Within each repo you will find a markdown tutorial file containing links to python projects hosted on replit
+
+Once you visit the link, you will see a solution file and a tutorial file
+
+The goal is to achieve what is asked in the tutorial file without using the solution
+
+Once you have completed what you can, take a look at the solution. Whether you were able to solve the problem or not, always take a look at the solution file because there may be something you can learn from it.
+
+
+
+
+
