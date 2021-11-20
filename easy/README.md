@@ -1,3 +1,8 @@
 # Programs List - Easy
 1. [Random Name Generator](https://replit.com/@waqasp/Random-Name-Generator#main.py)
-2. [Word Unscrambler](https://replit.com/@waqasp/Word-Unscrambler)
+2. [Random Word Generator](https://replit.com/@waqasp/Random-Word-Generator)
+3. [Word Unscrambler](https://replit.com/@waqasp/Word-Unscrambler)
+4. [Random Number Guessing Game](https://replit.com/@waqasp/Random-Number-Guessing-Game#main.py)
+5. [Password Generator](https://replit.com/@waqasp/Password-Generator#main.py)
+6. [Weight Loss](https://replit.com/@waqasp/Weight-Loss-Calculator)
+7. [Time Converter](https://replit.com/@waqasp/Time-Converter)
