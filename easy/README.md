@@ -8,3 +8,4 @@
 7. [Time Converter](https://replit.com/@waqasp/Time-Converter)
 8. [Simple Turtle Race](https://replit.com/@waqasp/Simple-Turtle-Race#main.py)
 9. [Cool Text Printing](https://replit.com/@waqasp/Cool-Text-Printing#main.py)
+10. [Shape Drawer](https://replit.com/@waqasp/Shape-Drawer#main.py)
