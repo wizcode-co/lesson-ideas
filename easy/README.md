@@ -7,3 +7,4 @@
 6. [Weight Loss](https://replit.com/@waqasp/Weight-Loss-Calculator)
 7. [Time Converter](https://replit.com/@waqasp/Time-Converter)
 8. [Simple Turtle Race](https://replit.com/@waqasp/Simple-Turtle-Race#main.py)
+9. [Cool Text Printing](https://replit.com/@waqasp/Cool-Text-Printing#main.py)
