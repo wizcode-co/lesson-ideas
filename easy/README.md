@@ -6,3 +6,4 @@
 5. [Password Generator](https://replit.com/@waqasp/Password-Generator#main.py)
 6. [Weight Loss](https://replit.com/@waqasp/Weight-Loss-Calculator)
 7. [Time Converter](https://replit.com/@waqasp/Time-Converter)
+8. [Simple Turtle Race](https://replit.com/@waqasp/Simple-Turtle-Race#main.py)
