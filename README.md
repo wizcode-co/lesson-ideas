@@ -1,18 +1,11 @@
-# Python Learning Programs
-This repo is broken into 3 groups of difficulty:
-1. Easy - practice syntax
-2. Medium - practice problem solving
-3. Hard - put it all together
+# Learning Programs
+This repo is broken into 3 sections:
+1. Python - 3 difficulty levels of python programs
+2. PyGame - Python Projects for intermediate students
+3. ![Scratch](https://scratch.mit.edu/) - Projects for elementary programming students
 
-Within each repo you will find a markdown tutorial file containing links to python projects hosted on replit
+Feel free to add projects to this repo
 
-Once you visit the link, you will see a solution file and a tutorial file
+Be sure to add a link to your Github next to the project(s) that you add
 
-The goal is to achieve what is asked in the tutorial file without using the solution
-
-Once you have completed what you can, take a look at the solution. Whether you were able to solve the problem or not, always take a look at the solution file because there may be something you can learn from it.
-
-
-
-
-
+Please ensure that all projects are well documented to make it possible for others to read them
