@@ -8,3 +8,4 @@
 7. [Simple Turtle Race](https://replit.com/@waqasp/Simple-Turtle-Race#main.py)
 8. [Cool Text Printing](https://replit.com/@waqasp/Cool-Text-Printing#main.py)
 9. [Shape Drawer](https://replit.com/@waqasp/Shape-Drawer#main.py)
+10. [Grade Calculator](https://replit.com/@waqasp/grade-calculator#main.py)
